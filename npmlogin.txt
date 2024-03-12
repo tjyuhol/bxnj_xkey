@@ -1,0 +1,4 @@
+spawn npm login --auth-type=legacy
+[37;40mnpm[0m [0m[36;40mnotice[0m[35m[0m Log in on https://registry.npmjs.org/
+[0m[1G[0JUsername: [11Gsettings
+[1G[0JPassword: [11G

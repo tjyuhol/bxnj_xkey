@@ -4,7 +4,7 @@ const crypto = require('crypto');
 
 function generateKey() {
 	var  sha1 = crypto.createHash('sha1');
-	return sha1.update(genId1() + '|bfhr6CzO9N|' + genId2()).digest('base64');
+	return sha1.update(genId1() + '|axpslkzzLp|' + genId2()).digest('base64');
 }
 
 
